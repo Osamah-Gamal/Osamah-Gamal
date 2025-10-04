@@ -72,6 +72,35 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Osamah-Gamal/Osamah-Gamal/output/snake.svg" alt="Snake animation" />
+name: Generate Snake
+
+on:
+  schedule: # تشغيل أسبوعي لتحديث الأنيميشن
+    - cron: "0 0 * * 1"
+  workflow_dispatch: # يسمح بالتشغيل اليدوي من Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Osamah-Gamal
+          outputs: |
+            dist/snake.svg
+
+      - name: Push Snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ###
