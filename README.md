@@ -1,4 +1,5 @@
 <h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
+
 ###
 
 <br clear="both">
@@ -32,10 +33,6 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://osamah-gamal.netlify.app/images/Profile/osamah2.jpeg"  />
 
 ###
 
