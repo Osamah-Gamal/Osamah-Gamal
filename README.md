@@ -1,84 +1,72 @@
-<h2 align="center">
-  Hi 👋<br>
-  👨‍💻 I'm <span style="color:#ff4d6d;">Osamah Gamal Mohammed Esmail</span><br>
-  💻 Software Developer | Backend Engineer
-</h2>
+<h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
 
-<br>
+###
 
-<!-- ====== Icons Section ====== -->
-<div align="center" style="margin-bottom: 20px;">
-  <style>
-    .tech-icon {
-      display: inline-block;
-      border: 2px solid #444;
-      border-radius: 12px;
-      padding: 8px;
-      margin: 6px;
-      transition: all 0.3s ease;
-      background-color: #0d1117;
-    }
-    .tech-icon:hover {
-      border-color: #ff4d6d;
-      box-shadow: 0 0 10px #ff4d6d;
-      transform: scale(1.1);
-    }
-    .tech-icon img {
-      height: 35px;
-      width: auto;
-    }
-  </style>
-
-  <div>
-    <span class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" /></span>
-    <span class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" /></span>
-    <span class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" /></span>
-    <span class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/flutter/02569B" alt="Flutter" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" /></span>
-    <span class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/c++/00599C" alt="C++" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" /></span>
-    <span class="tech-icon"><img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" /></span>
-  </div>
-</div>
-
-<br>
-
-<!-- ====== Social Icons ====== -->
-<div align="center">
-  <a class="tech-icon" href="https://www.linkedin.com/in/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-07906326b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn" />
-  </a>
-  <a class="tech-icon" href="mailto:osamajamal2021@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail" />
-  </a>
-  <a class="tech-icon" href="https://www.facebook.com/osamh.gamal.2001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook" />
-  </a>
-  <a class="tech-icon" href="https://www.instagram.com/osamah__gamal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram" />
-  </a>
-  <a class="tech-icon" href="https://t.me/Osamah_Gamal_2001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="Telegram" />
-  </a>
-</div>
-
-<br>
-
-<!-- ====== GitHub Stats ====== -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osamah-Gamal&show_icons=true&theme=radical" height="150" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=Osamah-Gamal&theme=radical" height="150" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osamah-Gamal&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
-<br>
+<br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Osamah-Gamal/Osamah-Gamal/output/snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="30" alt="cplusplus logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-07906326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:osamajamal2021@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/osamh.gamal.2001" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/osamah__gamal?igsh=YzZpcjB3ZGZpNjZ5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/Osamah_Gamal_2001" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osamah-Gamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Osamah-Gamal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osamah-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Osamah-Gamal/Osamah-Gamal/output/snake.svg" alt="Snake animation" />
+
