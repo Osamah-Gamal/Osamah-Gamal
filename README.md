@@ -1,8 +1,14 @@
-<h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
+في <h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
 
+###
 
+<br clear="both">
 
-<h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Osamah-Gamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Osamah-Gamal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osamah-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -40,6 +46,10 @@
 
 ###
 
+<img align="right" height="150" src="https://osamah-gamal.netlify.app/images/Profile/osamah2.jpeg"  />
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-07906326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
@@ -62,16 +72,5 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Osamah-Gamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Osamah-Gamal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Osamah-Gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Osamah-Gamal/Osamah-Gamal/output/snake.svg" alt="Snake animation" />
 
-### 
