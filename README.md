@@ -1,6 +1,10 @@
 <h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Clean+Code+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</p>
+
+### 🎯 Languages and Tools :
 
 <br clear="both">
 
@@ -34,7 +38,7 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
 </div>
 
-###
+### 📬 Contact with me :
 
 <div align="center">
   <a href="https://www.linkedin.com/in/%D8%A3%D8%B3%D8%A7%D9%85%D8%A9-%D8%AC%D9%85%D8%A7%D9%84-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-07906326b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
