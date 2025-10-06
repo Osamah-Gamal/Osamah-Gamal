@@ -1,6 +1,9 @@
 <h2 align="center">Hi 👋<br>👨‍💻 I'm Osamah Gamal Mohammed Esmail<br>💻 Software Developer | Backend Engineer</h2>
 
 <p align="center">
+  A passionate Back-end development Developer with a Bachelor's degree in Information Technology from Hadhramout University. I specialize in building dynamic and scalable web applications, desktop software, and mobile apps using modern technologies. With expertise in both front-end and back-end development, I create efficient and responsive solutions for various platforms. Eager to contribute to building innovative projects and continue growing in a professional environment.
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Clean+Code+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
@@ -60,7 +63,7 @@
   </a>
 </div>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats :
 
 <br clear="both">
 
