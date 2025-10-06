@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Clean+Code+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
-
 <h2></h2>
 
 ### 🎯 Languages and Tools :
