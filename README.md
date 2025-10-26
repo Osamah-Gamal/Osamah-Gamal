@@ -9,12 +9,12 @@
 </p>
 
 
-## 🚀 About Me
+## 🚀 DevPortfolio
 
 ```javascript
 const OsamahGamal = {
-  startCoding: 2018,
-  bornIn: 2001,
+  born-In: 2001,
+  startCoding: 2022,
   location: 'Yemen - Hadhramaut',
   languages: ['Arabic (native)', 'English (good command)'],
   programmingLanguages: ['C#', 'Dart', 'JavaScript', 'Python', 'SQL'],
