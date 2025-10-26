@@ -13,7 +13,7 @@
 
 ```javascript
 const OsamahGamal = {
-  born-In: 2001,
+  born_In: 2001,
   startCoding: 2022,
   location: 'Yemen - Hadhramaut',
   languages: ['Arabic (native)', 'English (good command)'],
