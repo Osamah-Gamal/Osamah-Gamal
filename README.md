@@ -8,6 +8,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Clean+Code+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
+
+## 🚀 About Me
+
+```javascript
+const OsamahGamal = {
+  startCoding: 2018,
+  bornIn: 2001,
+  location: 'Yemen - Hadhramaut',
+  languages: ['Arabic (native)', 'English (good command)'],
+  programmingLanguages: ['C#', 'Dart', 'JavaScript', 'Python', 'SQL'],
+  mySkills: {
+    backend: ['ASP.NET MVC', '.NET Core', 'Entity Framework', 'RESTful APIs'],
+    frontend: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'Flutter (UI)'],
+    mobile: ['Flutter'],
+    database: ['SQL Server', 'SQLite', 'PostgreSQL'],
+    tools: ['Visual Studio', 'VS Code', 'Postman', 'Git/GitHub'],
+    design: ['Figma'],
+    other: ['OOP', 'Problem Solving', 'Data Structures', 'Software Design Patterns'],
+  },
+  education: "B.Sc. in Information Technology, Hadhramaut University (Expected 2025)",
+  interests: ['Web Development', 'Mobile Apps', 'Backend Systems', 'APIs', 'Exploring New Technologies']
+};
+```
+
 ### 🛠️ Languages and Tools
 
 <div align="center">
